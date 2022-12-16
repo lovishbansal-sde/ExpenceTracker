@@ -3,7 +3,7 @@
 This daily purpose app is created to enable users take note of their everyday expenses. It is not convenient to mark everyday expenses in any notepad or remember everything until the day's end. This pocket friendly web app simply requires a pull and a few swipes to jot down expenses right there in few simple steps. Added benefit, you can simply mention someone's account name and let the person get a reminder of the expense you had with them. 
 # Model Component
 ![ModelClassDiagram](https://user-images.githubusercontent.com/81516480/208097735-41ca7c0a-6e26-47c2-a3e2-cb66d07e2fd4.png)
-#Live Link
+# Live Link
 https://zingy-gecko-3fddb7.netlify.app/
 # Output
 ![image](https://user-images.githubusercontent.com/81516480/208097609-91e4dab7-97f6-40f7-8287-83de8d280d9d.png)
